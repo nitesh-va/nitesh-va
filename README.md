@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Django
 - 📫 How to reach me niteshksahu053@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ fact: I'm working at vaisesika
 
 <!---
